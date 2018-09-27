@@ -56,40 +56,8 @@
     font-size: 1em;
 }*/
 
-/*
-.emphasis{
-    font-weight: 600;
-}*/
 
-#unique
-{
-    color: red;
-}
-
-.box-model{
-
-    margin:50px;
-    padding: 50px;
-    border: solid 20px blue;
-
-     
-    
-   /*outline: solid;*/ 
-    width: 500px;
-    height: 250 px;
-    overflow:scroll;
-    
-   /* display: inline;*/
-}
-
-.border-box{
-   
-    box-sizing: content-box;
-    border: solid 20px blue;
-    
-    
-}
-.inline
+/*.inline
 {
     display: inline;
 
@@ -112,7 +80,7 @@
 .none{
     
     display: none;
-}
+}*/
 
  .nav {
     background-color: rgb(64,128,191);
