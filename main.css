@@ -131,3 +131,23 @@ figure {
     text-align:center;
     color: #fff;
 }
+
+
+.top {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px; 
+     color:rgb(25,51,77);
+}
+
+.centered {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+     font-size: 40px; 
+ color:rgb(64,128,191);
+}
+
